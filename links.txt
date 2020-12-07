@@ -1,0 +1,7 @@
+https://bezkoder.com/node-js-express-sequelize-mysql/
+
+https://github.com/LilyaMelkonyan/NodeMailer-with-Angular-7
+
+https://medium.com/@surabhisahay307/how-to-use-nodemailer-in-angular-dcbc9c048646
+
+https://bezkoder.com/angular-node-express-mysql/
